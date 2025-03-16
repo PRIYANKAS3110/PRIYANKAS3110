@@ -8,7 +8,7 @@
 ## 👀 Interests  
 - 🔹 Machine Learning & AI  
 - 🔹 Web & Mobile App Development  
-- 🔹 Competitive Programming (LeetCode, CodeChef, Codeforces)  
+- 🔹 Competitive Programming  
 - 🔹 Open Source Contributions  
 
 ## 🌱 Currently Learning  
